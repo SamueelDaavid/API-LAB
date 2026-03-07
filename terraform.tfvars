@@ -1,0 +1,8 @@
+app_plan            = "app-plan"
+app_service_name    = "terraform-web-app"
+resource_group_name = "terraform-gitlab"
+location            = "Austria East"
+sql_server_name     = "terraform-lab-sqlserver"
+sql_database_name   = "terraform-lab-db"
+sql_admin_login     = "admsql"
+sql_admin_password  = "Partiunuvem@2022"
